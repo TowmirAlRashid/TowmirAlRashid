@@ -13,3 +13,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TowmirAlRashid&theme=blue-green)
 </br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TowmirAlRashid&show_icons=true&theme=blue-green)
+</br>
+![](https://visitor-badge.laobi.icu/badge?page_id=TowmirAlRashid.TowmirAlRashid)
