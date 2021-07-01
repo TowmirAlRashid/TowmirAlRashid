@@ -10,9 +10,4 @@
 - 😍 I love to dream.
 - 😂 Laughing all the time is my spetiality.
 
-
-### 🗯 🔨 Languages and Tools
-
-<p align="center">
-  
-<p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
