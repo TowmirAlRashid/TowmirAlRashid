@@ -14,5 +14,7 @@
 </br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TowmirAlRashid&show_icons=true&theme=blue-green)
 </br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TowmirAlRashid1&theme=dark)](https://git.io/streak-stats)
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=TowmirAlRashid.TowmirAlRashid)
 [![Github](https://img.shields.io/github/followers/TowmirAlRashid?label=Follow&style=social)](https://github.com/TowmirAlRashid)
