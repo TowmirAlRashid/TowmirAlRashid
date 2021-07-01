@@ -1,6 +1,6 @@
 # <h1 align="center">HI 👋, I am AL RASHID TOWMIR</h1>
 
-### A Student From Bangladesh
+### <h3 align="center">A Student From Bangladesh</h3>
 
 ### Currently studying in HPU (Henan Polytechnic University)
 
