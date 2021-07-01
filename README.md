@@ -1,4 +1,4 @@
-# align="center" HI 👋, I am AL RASHID TOWMIR
+# <h1 align="center">HI 👋, I am AL RASHID TOWMIR</h1>
 
 ### A Student From Bangladesh
 
