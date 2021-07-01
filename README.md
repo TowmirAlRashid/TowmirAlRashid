@@ -10,4 +10,5 @@
 - 😍 I love to dream.
 - 😂 Laughing all the time is my spetiality.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TowmirAlRashid&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TowmirAlRashid&theme=blue-green)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CTowmirAlRashid&show_icons=true&theme=blue-green)
