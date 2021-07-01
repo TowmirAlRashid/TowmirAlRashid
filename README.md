@@ -1,4 +1,4 @@
-# HI 👋, I am AL RASHID TOWMIR
+# align="center" HI 👋, I am AL RASHID TOWMIR
 
 ### A Student From Bangladesh
 
