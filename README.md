@@ -10,6 +10,10 @@
 - 😍 I love to dream.
 - 😂 Laughing all the time is my spetiality.
 
+### Connect with me:
+
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/facebook.svg" />][facebook]
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TowmirAlRashid&theme=blue-green)
 </br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TowmirAlRashid&show_icons=true&theme=blue-green)
