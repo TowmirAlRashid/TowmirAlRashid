@@ -34,10 +34,10 @@
 [<img align="left" width="40px" src"" />][pycharm]
 [<img align="left" width="40px" src"" />][intid]
 [<img align="left" width="40px" src"" />][github]
-[<img align="left" width="40px" src"" />][vsstudio]
+[<img align="left" width="40px" src"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsstudio]
 [<img align="left" width="40px" src"" />][anaconda]
 [<img align="left" width="40px" src"" />][kali]
-[<img align="left" width="40px" src"https://github.com/TowmirAlRashid/TowmirAlRashid/blob/main/windows.png" />][windows]
+[<img align="left" width="40px" src"" />][windows]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TowmirAlRashid&theme=blue-green)
 </br>
