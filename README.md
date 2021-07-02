@@ -2,7 +2,7 @@
 
 ### <h3 align="center">A Student From Bangladesh</h3>
 
-### Currently studying in HPU (Henan Polytechnic University)
+### <h3 align="center">Currently studying in HPU (Henan Polytechnic University)</h3>
 
 - 🏃‍♂️ I want to learn everything 🤣
 - ☕ Java and 🐍 Python are my main interests.
