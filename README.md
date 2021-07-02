@@ -24,7 +24,7 @@
 ### Languages and Tools:
 
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124242901-1237c700-db3f-11eb-85fa-e46062031fc6.png">][html]
-[<img align="left" width="40px" src"https://user-images.githubusercontent.com/66881159/124243154-52974500-db3f-11eb-8267-41f0e46c366c.png">][css]
+[<img width="40px" src"https://user-images.githubusercontent.com/66881159/124243154-52974500-db3f-11eb-8267-41f0e46c366c.png">][css]
 [<img align="left" width="40px" src"">][java]
 [<img align="left" width="40px" src"">][python]
 [<img align="left" width="40px" src"">][kivy]
