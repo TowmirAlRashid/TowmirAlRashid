@@ -24,19 +24,7 @@
 ### Languages and Tools:
 
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124242901-1237c700-db3f-11eb-85fa-e46062031fc6.png">][html]
-[<img width="40px" src"https://user-images.githubusercontent.com/66881159/124243154-52974500-db3f-11eb-8267-41f0e46c366c.png">][css]
-[<img align="left" width="40px" src"">][java]
-[<img align="left" width="40px" src"">][python]
-[<img align="left" width="40px" src"">][kivy]
-[<img align="left" width="40px" src"">][mysql]
-[<img align="left" width="40px" src"">][vmware]
-[<img align="left" width="40px" src"">][wireshark]
-[<img align="left" width="40px" src"">][pycharm]
-[<img align="left" width="40px" src"">][intid]
-[<img align="left" width="40px" src"">][github]
-[<img align="left" width="40px" src"">][vsstudio]
-[<img align="left" width="40px" src"">][anaconda]
-[<img align="left" width="40px" src"">][kali]
+[<img width="40px" src="https://user-images.githubusercontent.com/66881159/124243154-52974500-db3f-11eb-8267-41f0e46c366c.png">][css]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124237236-1eb92100-db39-11eb-8093-f2976eb9e65e.png">][windows]
 
 
