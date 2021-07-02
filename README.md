@@ -26,6 +26,17 @@
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124242901-1237c700-db3f-11eb-85fa-e46062031fc6.png">][html]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124243154-52974500-db3f-11eb-8267-41f0e46c366c.png">][css]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124244995-5926bc00-db41-11eb-9070-f93e6dc599f8.png">][java]
+[<img width="40px" src="https://user-images.githubusercontent.com/66881159/124245271-a9058300-db41-11eb-86f5-e5bd136df040.png">][python]
+[<img width="40px" src="">]
+[<img width="40px" src="">]
+[<img width="40px" src="">]
+[<img width="40px" src="">]
+[<img width="40px" src="">]
+[<img width="40px" src="">]
+[<img width="40px" src="">]
+[<img width="40px" src="">]
+[<img width="40px" src="">]
+[<img width="40px" src="">]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124237236-1eb92100-db39-11eb-8093-f2976eb9e65e.png">][windows]
 
 
