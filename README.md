@@ -11,9 +11,11 @@
 - 😂 Laughing all the time is my spetiality.
 
 ### Connect with me:
-<p align="center">
-  [<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/facebook.svg" />][facebook]
-</p>
+
+[<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/facebook.svg" />][facebook]
+[<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/instagram.svg" />][instagram]
+
 
 </br>
 
@@ -29,3 +31,5 @@
 
 
 [facebook]: https://m.facebook.com/al.towmir?ref=bookmarks
+[linkedin]: https://www.linkedin.com/in/alrashid-towmir-6293631b3
+[instagram]: https://www.instagram.com/invites/contact/?i=1pvei31gso4mt&utm_content=m0pxx4m
