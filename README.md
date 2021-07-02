@@ -23,7 +23,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" width="40px" src"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" width="40px" src"" />][html]
 [<img align="left" width="40px" src"" />][css]
 [<img align="left" width="40px" src"" />][java]
 [<img align="left" width="40px" src"" />][python]
@@ -37,7 +37,7 @@
 [<img align="left" width="40px" src"" />][vsstudio]
 [<img align="left" width="40px" src"" />][anaconda]
 [<img align="left" width="40px" src"" />][kali]
-[<img align="left" width="40px" src"" />][windows]
+[<img align="left" width="40px" src"https://user-images.githubusercontent.com/66881159/124237236-1eb92100-db39-11eb-8093-f2976eb9e65e.png" />][windows]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TowmirAlRashid&theme=blue-green)
 </br>
