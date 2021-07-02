@@ -36,7 +36,7 @@
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124246906-28478680-db43-11eb-9a63-54ba80f3eb8f.png">][github]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124246960-3c8b8380-db43-11eb-8f26-e7a8890cf720.png">][vsstudio]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124247080-5cbb4280-db43-11eb-8d56-428f3b8a2313.jpg">][anaconda]
-[<img width="40px" src="https://user-images.githubusercontent.com/66881159/124247219-79577a80-db43-11eb-953e-8628404f30bd.png">][kali]
+[<img width="40px" src="https://user-images.githubusercontent.com/66881159/124247500-c3406080-db43-11eb-908f-4a8b1a5905fc.jpg">][kali]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124237236-1eb92100-db39-11eb-8093-f2976eb9e65e.png">][windows]
 
 
