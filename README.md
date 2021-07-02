@@ -21,7 +21,7 @@
 </br>
 </br>
 
-[<img src="https://user-images.githubusercontent.com/66881159/124237236-1eb92100-db39-11eb-8093-f2976eb9e65e.png">]
+[<img src="https://user-images.githubusercontent.com/66881159/124237236-1eb92100-db39-11eb-8093-f2976eb9e65e.png">][windows]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TowmirAlRashid&theme=blue-green)
 </br>
