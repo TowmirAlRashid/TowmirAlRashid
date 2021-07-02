@@ -11,8 +11,11 @@
 - 😂 Laughing all the time is my spetiality.
 
 ### Connect with me:
+<p align="center">
+  [<img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/facebook.svg" />][facebook]
+</p>
 
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/facebook.svg" />][facebook]
+</br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TowmirAlRashid&theme=blue-green)
 </br>
