@@ -19,7 +19,6 @@
 
 </br>
 </br>
-</br>
 
 ### Languages and Tools:
 
@@ -39,6 +38,8 @@
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124247500-c3406080-db43-11eb-908f-4a8b1a5905fc.jpg">][kali]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124237236-1eb92100-db39-11eb-8093-f2976eb9e65e.png">][windows]
 
+</br>
+</br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TowmirAlRashid&theme=blue-green)
 </br>
