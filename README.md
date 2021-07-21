@@ -26,7 +26,6 @@
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124243154-52974500-db3f-11eb-8267-41f0e46c366c.png">][css]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124244995-5926bc00-db41-11eb-9070-f93e6dc599f8.png">][java]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124245698-0b5e8380-db42-11eb-8cc4-d11698160581.png">][python]
-[<img width="40px" src="https://user-images.githubusercontent.com/66881159/124356147-5c4fa400-dc36-11eb-84a7-4cd26be28abd.png">][cpp]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124246067-65f7df80-db42-11eb-97f9-5bfbcf6163ce.png">][mysql]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124246192-832cae00-db42-11eb-9a3b-53f2c5f07fc9.jpg">][vmware]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124246416-b7a06a00-db42-11eb-9386-a1d4396d18ce.jpg">][wireshark]
@@ -60,7 +59,6 @@
 [css]: https://www.w3.org/Style/CSS/Overview.en.html
 [java]: https://www.java.com/en/
 [python]: https://www.python.org/
-[cpp]: https://isocpp.org/
 [mysql]: https://www.mysql.com/
 [vmware]: https://www.vmware.com/products/workstation-pro.html
 [wireshark]: https://www.wireshark.org/
