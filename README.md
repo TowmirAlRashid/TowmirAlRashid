@@ -5,7 +5,7 @@
 ### <h3 align="center">Currently studying in HPU (Henan Polytechnic University)</h3>
 
 - 🏃‍♂️ I want to learn everything 🤣
-- ☕ Java and 🐍 Python are my main interests.
+- Javascript is my main interest.
 - 🙏 I am looking to collaborate on Undergraduate thesis.
 - 😍 I love to dream.
 - 😂 Laughing all the time is my spetiality.
