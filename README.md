@@ -8,7 +8,7 @@
 - Javascript is my main interest.
 - 🙏 I am looking to collaborate on Undergraduate thesis.
 - 😍 I love to dream.
-- 😂 Laughing all the time is my spetiality.
+- 😂 Laughing all the time is my speciality.
 
 ### Connect with me:
 
