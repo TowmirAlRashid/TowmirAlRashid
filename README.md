@@ -2,10 +2,10 @@
 
 ### <h3 align="center">A Student From Bangladesh</h3>
 
-### <h3 align="center">Currently studying in HPU (Henan Polytechnic University)</h3>
+### <h3 align="center">Graduated from HPU (Henan Polytechnic University)</h3>
 
 - 🏃‍♂️ I want to learn everything 🤣
-- Javascript is my main interest.
+- 🥰 Javascript is my main interest.
 - 🙏 I am looking to collaborate on Undergraduate thesis.
 - 😍 I love to dream.
 - 😂 Laughing all the time is my speciality.
@@ -24,16 +24,10 @@
 
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124277781-40c99800-db67-11eb-9704-88013eaedfd9.png">][html]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124243154-52974500-db3f-11eb-8267-41f0e46c366c.png">][css]
-[<img width="40px" src="https://user-images.githubusercontent.com/66881159/124244995-5926bc00-db41-11eb-9070-f93e6dc599f8.png">][java]
-[<img width="40px" src="https://user-images.githubusercontent.com/66881159/124245698-0b5e8380-db42-11eb-8cc4-d11698160581.png">][python]
-[<img width="40px" src="https://user-images.githubusercontent.com/66881159/124246067-65f7df80-db42-11eb-97f9-5bfbcf6163ce.png">][mysql]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124246192-832cae00-db42-11eb-9a3b-53f2c5f07fc9.jpg">][vmware]
-[<img width="40px" src="https://user-images.githubusercontent.com/66881159/124246416-b7a06a00-db42-11eb-9386-a1d4396d18ce.jpg">][wireshark]
-[<img width="40px" src="https://user-images.githubusercontent.com/66881159/124246544-d69efc00-db42-11eb-8865-5abd39dbc63d.jpg">][pycharm]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124246655-ed455300-db42-11eb-92c7-f2e4070d02b9.jpg">][intid]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124246906-28478680-db43-11eb-9a63-54ba80f3eb8f.png">][github]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124356254-d718bf00-dc36-11eb-94f8-360b52c0eae7.jpg">][codeblocks]
-[<img width="40px" src="https://user-images.githubusercontent.com/66881159/124247080-5cbb4280-db43-11eb-8d56-428f3b8a2313.jpg">][anaconda]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124247500-c3406080-db43-11eb-908f-4a8b1a5905fc.jpg">][kali]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124237236-1eb92100-db39-11eb-8093-f2976eb9e65e.png">][windows]
 
