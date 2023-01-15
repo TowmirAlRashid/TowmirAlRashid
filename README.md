@@ -26,7 +26,7 @@
 
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124277781-40c99800-db67-11eb-9704-88013eaedfd9.png">][html]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124243154-52974500-db3f-11eb-8267-41f0e46c366c.png">][css]
-[<img width="40px" ![js](https://user-images.githubusercontent.com/66881159/212522352-03066ddc-748b-4b6f-83c7-514fa2fc3e6b.png)
+[<img width="40px" src="https://user-images.githubusercontent.com/66881159/212522352-03066ddc-748b-4b6f-83c7-514fa2fc3e6b.png">][js]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124246655-ed455300-db42-11eb-92c7-f2e4070d02b9.jpg">][intid]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124246906-28478680-db43-11eb-9a63-54ba80f3eb8f.png">][github]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124356254-d718bf00-dc36-11eb-94f8-360b52c0eae7.jpg">][codeblocks]
