@@ -27,7 +27,7 @@
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124277781-40c99800-db67-11eb-9704-88013eaedfd9.png">][html]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124243154-52974500-db3f-11eb-8267-41f0e46c366c.png">][css]
 <img width="40px" src="https://user-images.githubusercontent.com/66881159/212522352-03066ddc-748b-4b6f-83c7-514fa2fc3e6b.png">
-![react](https://user-images.githubusercontent.com/66881159/212522563-ff6ed19d-8db6-4732-92de-b6883d00d1e2.png)
+<img width="40px" src="https://user-images.githubusercontent.com/66881159/212522563-ff6ed19d-8db6-4732-92de-b6883d00d1e2.png">
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124246906-28478680-db43-11eb-9a63-54ba80f3eb8f.png">][github]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124356254-d718bf00-dc36-11eb-94f8-360b52c0eae7.jpg">][codeblocks]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124247500-c3406080-db43-11eb-908f-4a8b1a5905fc.jpg">][kali]
