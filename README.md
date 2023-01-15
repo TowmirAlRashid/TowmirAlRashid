@@ -8,7 +8,7 @@
 
 - 🏃‍♂️ I want to learn everything 🤣
 - 🥰 Javascript is my main interest.
-- 🙏 I am looking to collaborate on Undergraduate thesis.
+- 🙏 I am looking forward to join in highly experienced Web Developers.
 - 😍 I love to dream.
 - 😂 Laughing all the time is my speciality.
 
