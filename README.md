@@ -1,8 +1,10 @@
 # <h1 align="center">HI 👋, I am AL RASHID TOWMIR</h1>
 
-### <h3 align="center">A Student From Bangladesh</h3>
+### <h3 align="center">A Developer From Bangladesh</h3>
 
 ### <h3 align="center">Graduated from HPU (Henan Polytechnic University)</h3>
+
+### <h3 align="center">Front-end Developer at Insta Web Works</h3>
 
 - 🏃‍♂️ I want to learn everything 🤣
 - 🥰 Javascript is my main interest.
