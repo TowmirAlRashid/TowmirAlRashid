@@ -34,7 +34,7 @@
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124247500-c3406080-db43-11eb-908f-4a8b1a5905fc.jpg">][kali]
 [<img width="40px" src="https://user-images.githubusercontent.com/66881159/124237236-1eb92100-db39-11eb-8093-f2976eb9e65e.png">][windows]
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/TowmirAlRashid/TowmirAlRashid/blob/master/devcard.svg" width="400" alt="Al Rashid Towmir's Dev Card"/></a>
+<a href="[https://app.daily.dev/DailyDevTips](https://app.daily.dev/towmir)"><img src="https://github.com/TowmirAlRashid/TowmirAlRashid/blob/master/devcard.svg" width="400" alt="Al Rashid Towmir's Dev Card"/></a>
 
 </br>
 </br>
